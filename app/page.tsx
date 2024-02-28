@@ -56,6 +56,7 @@ export default function Page() {
             width={560}
             height={620}
             className='block md:hidden'
+            alt='Screenshot of the Dashbord project showing the mobil version'
           />
         </div>
       </div>
